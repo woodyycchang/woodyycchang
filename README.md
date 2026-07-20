@@ -2,4 +2,4 @@
 
 CS MEng @ Cornell. Working on wearable input devices and the ML that decodes them.
 
-[LinkedIn](https://linkedin.com/in/woodyycchang) · woodychang@outlook.com
+[LinkedIn](https://linkedin.com/in/woodyycchang)
